@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WZOu8IMwWMhyxZ0rDo+lmFsDpJkSIKnTdjCM22YyS5V2HEh0DBIH4K091XSJ+frbY+43TIAHE66n1NPUev85YQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Study\\PRN211\\VanVTT10_SU23\\Team3_SE1737_BirdTradingPlatform\\BirdTradingPlatform_Group3_SE1737\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
